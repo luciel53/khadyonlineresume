@@ -7,10 +7,8 @@ import {
   Phone,
   Linkedin,
   MapPin,
-  Download,
   Eye,
   ChevronDown,
-  ChevronUp,
   Database,
   BarChart3,
   Code,
@@ -35,9 +33,6 @@ const CVKhadyThiam = () => {
   const headerRef = useRef<HTMLDivElement>(null);
   const navRef = useRef<HTMLDivElement>(null);
   const contentRef = useRef<HTMLDivElement>(null);
-  const experienceRefs = useRef([]);
-  const skillRefs = useRef([]);
-  const formationRefs = useRef([]);
 
   // GSAP animations
   useEffect(() => {
@@ -328,7 +323,7 @@ const CVKhadyThiam = () => {
               <p className="text-slate-200 leading-relaxed max-w-4xl text-lg md:text-xl lg:text-xl font-light">
                 Passionnée par la data science, je maîtrise la transformation
                 des données en insights exploitables. Mon parcours académique et
-                mes expériences m'ont permis d'acquérir de solides compétences
+                mes expériences m&apos;ont permis d&apos; acquérir de solides compétences
                 en analyse et visualisation.
               </p>
 
@@ -774,7 +769,7 @@ const CVKhadyThiam = () => {
                       </div>
                       <div>
                         <h5 className="text-lg font-bold text-sky-800 mb-2 group-hover:text-blue-700 transition-colors">
-                          L'École de la Paix – Grenoble
+                          L&apos;École de la Paix – Grenoble
                         </h5>
                         <p className="text-sky-700 leading-relaxed">
                           Gestion de bases de données IA et coordination de
@@ -797,7 +792,7 @@ const CVKhadyThiam = () => {
                           Université Inter-Âges du Dauphiné
                         </h5>
                         <p className="text-sky-700 leading-relaxed">
-                          Assistance pour les cours d'informatique (Excel,
+                          Assistance pour les cours d&apos;informatique (Excel,
                           Python)
                         </p>
                       </div>
