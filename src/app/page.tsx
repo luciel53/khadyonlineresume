@@ -314,7 +314,7 @@ const CVKhadyThiam = () => {
                 <div className="flex items-center justify-center lg:justify-start gap-3">
                   <div className="w-16 h-0.5 bg-gradient-to-r from-blue-400 to-indigo-400"></div>
                   <h2 className="text-2xl md:text-3xl lg:text-4xl text-blue-200 font-light tracking-wide">
-                  Gestionnaire de base de données | Data Analyst
+                  Gestionnaire de base de données et Data Analyst
                   </h2>
                   <div className="w-16 h-0.5 bg-gradient-to-l from-blue-400 to-indigo-400"></div>
                 </div>
