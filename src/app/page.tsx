@@ -296,7 +296,7 @@ const CVKhadyThiam = () => {
               <div className="w-24 h-24 md:w-56 md:h-56 rounded-full relative overflow-hidden group-hover:scale-105 transition-all duration-500 border-4 border-white/30 shadow-2xl ring-4 ring-white/10">
                 <Image
                   src="/images/portraitkhady.png"
-                  alt="Khady Thiam - Data Analyst"
+                  alt="Khady Thiam - Gestionnaire de base de données | Data Analyst"
                   fill
                   priority
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
@@ -314,7 +314,7 @@ const CVKhadyThiam = () => {
                 <div className="flex items-center justify-center lg:justify-start gap-3">
                   <div className="w-16 h-0.5 bg-gradient-to-r from-blue-400 to-indigo-400"></div>
                   <h2 className="text-2xl md:text-3xl lg:text-4xl text-blue-200 font-light tracking-wide">
-                    Data Analyst
+                  Gestionnaire de base de données | Data Analyst
                   </h2>
                   <div className="w-16 h-0.5 bg-gradient-to-l from-blue-400 to-indigo-400"></div>
                 </div>
